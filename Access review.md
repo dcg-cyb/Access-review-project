@@ -1,6 +1,8 @@
 # Before
 <img width="2162" height="866" alt="image" src="https://github.com/user-attachments/assets/0ee840f6-ba7f-44df-88f6-706609150f8b" />
 
+# After review
+<img width="2162" height="866" alt="image" src="https://github.com/user-attachments/assets/1c32d275-38a4-4cf7-822c-d6d7db53b44d" />
 
 # Key findings
 **1.** IT Service Desk (Shared Login) - Multiple concurrent sessions / multiple locations
